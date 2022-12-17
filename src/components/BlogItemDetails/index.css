@@ -1,0 +1,8 @@
+/* Write your CSS code here */
+.blog-details-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  min-height: 80vh;
+}
